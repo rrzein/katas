@@ -1,4 +1,4 @@
-require_relative 'pass1'
+require_relative '../lib/pass1'
 
 describe PrimeFactors do
 
